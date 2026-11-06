@@ -1,0 +1,617 @@
+date,agent_id,agent_name,route,amount
+2026-09-08,A01,Musa Ibrahim,Monday Market,46600
+2026-09-09,A01,Musa Ibrahim,Monday Market,37100
+2026-09-10,A01,Musa Ibrahim,Monday Market,44400
+2026-09-11,A01,Musa Ibrahim,Monday Market,43900
+2026-09-12,A01,Musa Ibrahim,Monday Market,47100
+2026-09-13,A01,Musa Ibrahim,Monday Market,48000
+2026-09-14,A01,Musa Ibrahim,Monday Market,41000
+2026-09-15,A01,Musa Ibrahim,Monday Market,40600
+2026-09-16,A01,Musa Ibrahim,Monday Market,43800
+2026-09-17,A01,Musa Ibrahim,Monday Market,41600
+2026-09-18,A01,Musa Ibrahim,Monday Market,43500
+2026-09-19,A01,Musa Ibrahim,Monday Market,42800
+2026-09-21,A01,Musa Ibrahim,Monday Market,45500
+2026-09-22,A01,Musa Ibrahim,Monday Market,51500
+2026-09-23,A01,Musa Ibrahim,Monday Market,42200
+2026-09-24,A01,Musa Ibrahim,Monday Market,46200
+2026-09-25,A01,Musa Ibrahim,Monday Market,43600
+2026-09-26,A01,Musa Ibrahim,Monday Market,41100
+2026-09-28,A01,Musa Ibrahim,Monday Market,45900
+2026-09-29,A01,Musa Ibrahim,Monday Market,44800
+2026-09-30,A01,Musa Ibrahim,Monday Market,44800
+2026-10-01,A01,Musa Ibrahim,Monday Market,44800
+2026-10-02,A01,Musa Ibrahim,Monday Market,44200
+2026-10-03,A01,Musa Ibrahim,Monday Market,46200
+2026-10-04,A01,Musa Ibrahim,Monday Market,42300
+2026-10-05,A01,Musa Ibrahim,Monday Market,43000
+2026-10-06,A01,Musa Ibrahim,Monday Market,41000
+2026-10-07,A01,Musa Ibrahim,Monday Market,38100
+2026-10-08,A01,Musa Ibrahim,Monday Market,44600
+2026-10-09,A01,Musa Ibrahim,Monday Market,46500
+2026-10-10,A01,Musa Ibrahim,Monday Market,42800
+2026-10-12,A01,Musa Ibrahim,Monday Market,43300
+2026-10-13,A01,Musa Ibrahim,Monday Market,40000
+2026-10-14,A01,Musa Ibrahim,Monday Market,45800
+2026-10-15,A01,Musa Ibrahim,Monday Market,46400
+2026-10-16,A01,Musa Ibrahim,Monday Market,44600
+2026-10-17,A01,Musa Ibrahim,Monday Market,42900
+2026-10-18,A01,Musa Ibrahim,Monday Market,42700
+2026-10-19,A01,Musa Ibrahim,Monday Market,39800
+2026-10-20,A01,Musa Ibrahim,Monday Market,42300
+2026-10-21,A01,Musa Ibrahim,Monday Market,45700
+2026-10-22,A01,Musa Ibrahim,Monday Market,46300
+2026-10-23,A01,Musa Ibrahim,Monday Market,42500
+2026-10-24,A01,Musa Ibrahim,Monday Market,38100
+2026-10-26,A01,Musa Ibrahim,Monday Market,40500
+2026-10-27,A01,Musa Ibrahim,Monday Market,40800
+2026-10-28,A01,Musa Ibrahim,Monday Market,48600
+2026-10-29,A01,Musa Ibrahim,Monday Market,46600
+2026-10-30,A01,Musa Ibrahim,Monday Market,43300
+2026-10-31,A01,Musa Ibrahim,Monday Market,42800
+2026-11-02,A01,Musa Ibrahim,Monday Market,45500
+2026-11-03,A01,Musa Ibrahim,Monday Market,41900
+2026-11-04,A01,Musa Ibrahim,Monday Market,44300
+2026-11-05,A01,Musa Ibrahim,Monday Market,44800
+2026-11-06,A01,Musa Ibrahim,Monday Market,49600
+2026-09-08,A02,Aisha Bukar,Baga Road,71600
+2026-09-09,A02,Aisha Bukar,Baga Road,79400
+2026-09-10,A02,Aisha Bukar,Baga Road,83200
+2026-09-11,A02,Aisha Bukar,Baga Road,87100
+2026-09-12,A02,Aisha Bukar,Baga Road,74000
+2026-09-13,A02,Aisha Bukar,Baga Road,69400
+2026-09-14,A02,Aisha Bukar,Baga Road,76600
+2026-09-15,A02,Aisha Bukar,Baga Road,71700
+2026-09-16,A02,Aisha Bukar,Baga Road,83200
+2026-09-17,A02,Aisha Bukar,Baga Road,96200
+2026-09-18,A02,Aisha Bukar,Baga Road,71800
+2026-09-19,A02,Aisha Bukar,Baga Road,79700
+2026-09-21,A02,Aisha Bukar,Baga Road,74200
+2026-09-23,A02,Aisha Bukar,Baga Road,79000
+2026-09-24,A02,Aisha Bukar,Baga Road,71500
+2026-09-25,A02,Aisha Bukar,Baga Road,75000
+2026-09-26,A02,Aisha Bukar,Baga Road,79800
+2026-09-27,A02,Aisha Bukar,Baga Road,84100
+2026-09-28,A02,Aisha Bukar,Baga Road,70600
+2026-09-30,A02,Aisha Bukar,Baga Road,91300
+2026-10-01,A02,Aisha Bukar,Baga Road,83200
+2026-10-02,A02,Aisha Bukar,Baga Road,83800
+2026-10-03,A02,Aisha Bukar,Baga Road,77000
+2026-10-05,A02,Aisha Bukar,Baga Road,80800
+2026-10-06,A02,Aisha Bukar,Baga Road,70400
+2026-10-07,A02,Aisha Bukar,Baga Road,79100
+2026-10-08,A02,Aisha Bukar,Baga Road,79000
+2026-10-09,A02,Aisha Bukar,Baga Road,79800
+2026-10-10,A02,Aisha Bukar,Baga Road,79400
+2026-10-12,A02,Aisha Bukar,Baga Road,80700
+2026-10-13,A02,Aisha Bukar,Baga Road,79100
+2026-10-14,A02,Aisha Bukar,Baga Road,69500
+2026-10-15,A02,Aisha Bukar,Baga Road,88800
+2026-10-16,A02,Aisha Bukar,Baga Road,75600
+2026-10-17,A02,Aisha Bukar,Baga Road,71100
+2026-10-19,A02,Aisha Bukar,Baga Road,75500
+2026-10-20,A02,Aisha Bukar,Baga Road,77000
+2026-10-22,A02,Aisha Bukar,Baga Road,78600
+2026-10-23,A02,Aisha Bukar,Baga Road,65200
+2026-10-24,A02,Aisha Bukar,Baga Road,72700
+2026-10-26,A02,Aisha Bukar,Baga Road,75900
+2026-10-27,A02,Aisha Bukar,Baga Road,69700
+2026-10-28,A02,Aisha Bukar,Baga Road,75000
+2026-10-29,A02,Aisha Bukar,Baga Road,84300
+2026-10-30,A02,Aisha Bukar,Baga Road,86300
+2026-10-31,A02,Aisha Bukar,Baga Road,73700
+2026-11-02,A02,Aisha Bukar,Baga Road,79100
+2026-11-03,A02,Aisha Bukar,Baga Road,78600
+2026-11-04,A02,Aisha Bukar,Baga Road,93700
+2026-11-05,A02,Aisha Bukar,Baga Road,72700
+2026-11-06,A02,Aisha Bukar,Baga Road,68900
+2026-09-09,A03,Danjuma Pwajok,Gamboru,66900
+2026-09-10,A03,Danjuma Pwajok,Gamboru,58800
+2026-09-11,A03,Danjuma Pwajok,Gamboru,65000
+2026-09-12,A03,Danjuma Pwajok,Gamboru,83600
+2026-09-14,A03,Danjuma Pwajok,Gamboru,77400
+2026-09-15,A03,Danjuma Pwajok,Gamboru,61000
+2026-09-16,A03,Danjuma Pwajok,Gamboru,83100
+2026-09-17,A03,Danjuma Pwajok,Gamboru,64800
+2026-09-18,A03,Danjuma Pwajok,Gamboru,87500
+2026-09-19,A03,Danjuma Pwajok,Gamboru,68900
+2026-09-21,A03,Danjuma Pwajok,Gamboru,65400
+2026-09-22,A03,Danjuma Pwajok,Gamboru,75400
+2026-09-23,A03,Danjuma Pwajok,Gamboru,68900
+2026-09-24,A03,Danjuma Pwajok,Gamboru,63200
+2026-09-26,A03,Danjuma Pwajok,Gamboru,72300
+2026-09-28,A03,Danjuma Pwajok,Gamboru,76800
+2026-09-29,A03,Danjuma Pwajok,Gamboru,73000
+2026-09-30,A03,Danjuma Pwajok,Gamboru,71000
+2026-10-01,A03,Danjuma Pwajok,Gamboru,72800
+2026-10-02,A03,Danjuma Pwajok,Gamboru,87000
+2026-10-03,A03,Danjuma Pwajok,Gamboru,79900
+2026-10-05,A03,Danjuma Pwajok,Gamboru,64700
+2026-10-06,A03,Danjuma Pwajok,Gamboru,72500
+2026-10-07,A03,Danjuma Pwajok,Gamboru,61100
+2026-10-08,A03,Danjuma Pwajok,Gamboru,73600
+2026-10-09,A03,Danjuma Pwajok,Gamboru,68300
+2026-10-10,A03,Danjuma Pwajok,Gamboru,71300
+2026-10-11,A03,Danjuma Pwajok,Gamboru,69600
+2026-10-12,A03,Danjuma Pwajok,Gamboru,79400
+2026-10-13,A03,Danjuma Pwajok,Gamboru,69700
+2026-10-14,A03,Danjuma Pwajok,Gamboru,72700
+2026-10-15,A03,Danjuma Pwajok,Gamboru,61000
+2026-10-16,A03,Danjuma Pwajok,Gamboru,80800
+2026-10-17,A03,Danjuma Pwajok,Gamboru,75900
+2026-10-19,A03,Danjuma Pwajok,Gamboru,65000
+2026-10-20,A03,Danjuma Pwajok,Gamboru,78400
+2026-10-21,A03,Danjuma Pwajok,Gamboru,80800
+2026-10-22,A03,Danjuma Pwajok,Gamboru,73500
+2026-10-23,A03,Danjuma Pwajok,Gamboru,73500
+2026-10-24,A03,Danjuma Pwajok,Gamboru,69300
+2026-10-26,A03,Danjuma Pwajok,Gamboru,76600
+2026-10-27,A03,Danjuma Pwajok,Gamboru,75400
+2026-10-28,A03,Danjuma Pwajok,Gamboru,71400
+2026-10-29,A03,Danjuma Pwajok,Gamboru,75300
+2026-10-30,A03,Danjuma Pwajok,Gamboru,75200
+2026-10-31,A03,Danjuma Pwajok,Gamboru,64300
+2026-11-02,A03,Danjuma Pwajok,Gamboru,67000
+2026-11-03,A03,Danjuma Pwajok,Gamboru,64100
+2026-11-04,A03,Danjuma Pwajok,Gamboru,67300
+2026-11-05,A03,Danjuma Pwajok,Gamboru,58000
+2026-11-06,A03,Danjuma Pwajok,Gamboru,73400
+2026-09-08,A04,Fatima Goni,Bolori,75300
+2026-09-09,A04,Fatima Goni,Bolori,69000
+2026-09-10,A04,Fatima Goni,Bolori,81300
+2026-09-11,A04,Fatima Goni,Bolori,75400
+2026-09-12,A04,Fatima Goni,Bolori,85800
+2026-09-13,A04,Fatima Goni,Bolori,80700
+2026-09-14,A04,Fatima Goni,Bolori,78100
+2026-09-15,A04,Fatima Goni,Bolori,81400
+2026-09-16,A04,Fatima Goni,Bolori,72300
+2026-09-17,A04,Fatima Goni,Bolori,88400
+2026-09-18,A04,Fatima Goni,Bolori,73800
+2026-09-19,A04,Fatima Goni,Bolori,84300
+2026-09-21,A04,Fatima Goni,Bolori,84400
+2026-09-22,A04,Fatima Goni,Bolori,82500
+2026-09-23,A04,Fatima Goni,Bolori,77700
+2026-09-24,A04,Fatima Goni,Bolori,89100
+2026-09-25,A04,Fatima Goni,Bolori,79700
+2026-09-26,A04,Fatima Goni,Bolori,68900
+2026-09-28,A04,Fatima Goni,Bolori,74000
+2026-09-29,A04,Fatima Goni,Bolori,82300
+2026-09-30,A04,Fatima Goni,Bolori,70100
+2026-10-01,A04,Fatima Goni,Bolori,79300
+2026-10-02,A04,Fatima Goni,Bolori,81900
+2026-10-03,A04,Fatima Goni,Bolori,79900
+2026-10-05,A04,Fatima Goni,Bolori,82400
+2026-10-06,A04,Fatima Goni,Bolori,77900
+2026-10-07,A04,Fatima Goni,Bolori,84200
+2026-10-08,A04,Fatima Goni,Bolori,82300
+2026-10-12,A04,Fatima Goni,Bolori,70800
+2026-10-13,A04,Fatima Goni,Bolori,64300
+2026-10-14,A04,Fatima Goni,Bolori,83700
+2026-10-15,A04,Fatima Goni,Bolori,80300
+2026-10-16,A04,Fatima Goni,Bolori,87400
+2026-10-17,A04,Fatima Goni,Bolori,74100
+2026-10-19,A04,Fatima Goni,Bolori,87600
+2026-10-20,A04,Fatima Goni,Bolori,73700
+2026-10-21,A04,Fatima Goni,Bolori,69600
+2026-10-22,A04,Fatima Goni,Bolori,76700
+2026-10-23,A04,Fatima Goni,Bolori,89900
+2026-10-24,A04,Fatima Goni,Bolori,81500
+2026-10-26,A04,Fatima Goni,Bolori,78200
+2026-10-27,A04,Fatima Goni,Bolori,84900
+2026-10-28,A04,Fatima Goni,Bolori,75600
+2026-10-29,A04,Fatima Goni,Bolori,74900
+2026-10-30,A04,Fatima Goni,Bolori,77800
+2026-10-31,A04,Fatima Goni,Bolori,81300
+2026-11-01,A04,Fatima Goni,Bolori,69700
+2026-11-02,A04,Fatima Goni,Bolori,76900
+2026-11-03,A04,Fatima Goni,Bolori,81400
+2026-11-04,A04,Fatima Goni,Bolori,81200
+2026-11-05,A04,Fatima Goni,Bolori,92100
+2026-11-06,A04,Fatima Goni,Bolori,80000
+2026-09-08,A05,Yakubu Dalyop,Custom Roundabout,45200
+2026-09-09,A05,Yakubu Dalyop,Custom Roundabout,45100
+2026-09-10,A05,Yakubu Dalyop,Custom Roundabout,38400
+2026-09-11,A05,Yakubu Dalyop,Custom Roundabout,40100
+2026-09-14,A05,Yakubu Dalyop,Custom Roundabout,47900
+2026-09-15,A05,Yakubu Dalyop,Custom Roundabout,45200
+2026-09-16,A05,Yakubu Dalyop,Custom Roundabout,43000
+2026-09-17,A05,Yakubu Dalyop,Custom Roundabout,46200
+2026-09-18,A05,Yakubu Dalyop,Custom Roundabout,47700
+2026-09-19,A05,Yakubu Dalyop,Custom Roundabout,44000
+2026-09-21,A05,Yakubu Dalyop,Custom Roundabout,49000
+2026-09-22,A05,Yakubu Dalyop,Custom Roundabout,46000
+2026-09-23,A05,Yakubu Dalyop,Custom Roundabout,43400
+2026-09-24,A05,Yakubu Dalyop,Custom Roundabout,45500
+2026-09-25,A05,Yakubu Dalyop,Custom Roundabout,46300
+2026-09-26,A05,Yakubu Dalyop,Custom Roundabout,45300
+2026-09-28,A05,Yakubu Dalyop,Custom Roundabout,42900
+2026-09-29,A05,Yakubu Dalyop,Custom Roundabout,37600
+2026-10-01,A05,Yakubu Dalyop,Custom Roundabout,38700
+2026-10-02,A05,Yakubu Dalyop,Custom Roundabout,47200
+2026-10-03,A05,Yakubu Dalyop,Custom Roundabout,38700
+2026-10-05,A05,Yakubu Dalyop,Custom Roundabout,52500
+2026-10-06,A05,Yakubu Dalyop,Custom Roundabout,42000
+2026-10-07,A05,Yakubu Dalyop,Custom Roundabout,38500
+2026-10-08,A05,Yakubu Dalyop,Custom Roundabout,44400
+2026-10-10,A05,Yakubu Dalyop,Custom Roundabout,45200
+2026-10-12,A05,Yakubu Dalyop,Custom Roundabout,47200
+2026-10-13,A05,Yakubu Dalyop,Custom Roundabout,40600
+2026-10-14,A05,Yakubu Dalyop,Custom Roundabout,48700
+2026-10-15,A05,Yakubu Dalyop,Custom Roundabout,48900
+2026-10-16,A05,Yakubu Dalyop,Custom Roundabout,49100
+2026-10-17,A05,Yakubu Dalyop,Custom Roundabout,44900
+2026-10-19,A05,Yakubu Dalyop,Custom Roundabout,40700
+2026-10-20,A05,Yakubu Dalyop,Custom Roundabout,45600
+2026-10-21,A05,Yakubu Dalyop,Custom Roundabout,46200
+2026-10-22,A05,Yakubu Dalyop,Custom Roundabout,48000
+2026-10-23,A05,Yakubu Dalyop,Custom Roundabout,41200
+2026-10-24,A05,Yakubu Dalyop,Custom Roundabout,41100
+2026-10-26,A05,Yakubu Dalyop,Custom Roundabout,43100
+2026-10-27,A05,Yakubu Dalyop,Custom Roundabout,44700
+2026-10-28,A05,Yakubu Dalyop,Custom Roundabout,46500
+2026-10-29,A05,Yakubu Dalyop,Custom Roundabout,45400
+2026-10-30,A05,Yakubu Dalyop,Custom Roundabout,45000
+2026-10-31,A05,Yakubu Dalyop,Custom Roundabout,43700
+2026-11-01,A05,Yakubu Dalyop,Custom Roundabout,40400
+2026-11-02,A05,Yakubu Dalyop,Custom Roundabout,40900
+2026-11-03,A05,Yakubu Dalyop,Custom Roundabout,45200
+2026-11-04,A05,Yakubu Dalyop,Custom Roundabout,41300
+2026-11-05,A05,Yakubu Dalyop,Custom Roundabout,46600
+2026-09-08,A06,Zainab Kyari,Shehu Laminu,57400
+2026-09-09,A06,Zainab Kyari,Shehu Laminu,48600
+2026-09-11,A06,Zainab Kyari,Shehu Laminu,51000
+2026-09-12,A06,Zainab Kyari,Shehu Laminu,48600
+2026-09-14,A06,Zainab Kyari,Shehu Laminu,53900
+2026-09-15,A06,Zainab Kyari,Shehu Laminu,44400
+2026-09-16,A06,Zainab Kyari,Shehu Laminu,53700
+2026-09-17,A06,Zainab Kyari,Shehu Laminu,58100
+2026-09-18,A06,Zainab Kyari,Shehu Laminu,49800
+2026-09-19,A06,Zainab Kyari,Shehu Laminu,56000
+2026-09-20,A06,Zainab Kyari,Shehu Laminu,56100
+2026-09-21,A06,Zainab Kyari,Shehu Laminu,47700
+2026-09-22,A06,Zainab Kyari,Shehu Laminu,53100
+2026-09-23,A06,Zainab Kyari,Shehu Laminu,58600
+2026-09-24,A06,Zainab Kyari,Shehu Laminu,47200
+2026-09-25,A06,Zainab Kyari,Shehu Laminu,52500
+2026-09-26,A06,Zainab Kyari,Shehu Laminu,52200
+2026-09-27,A06,Zainab Kyari,Shehu Laminu,58400
+2026-09-29,A06,Zainab Kyari,Shehu Laminu,57400
+2026-09-30,A06,Zainab Kyari,Shehu Laminu,56000
+2026-10-01,A06,Zainab Kyari,Shehu Laminu,57000
+2026-10-02,A06,Zainab Kyari,Shehu Laminu,49400
+2026-10-03,A06,Zainab Kyari,Shehu Laminu,56100
+2026-10-05,A06,Zainab Kyari,Shehu Laminu,53100
+2026-10-07,A06,Zainab Kyari,Shehu Laminu,52300
+2026-10-09,A06,Zainab Kyari,Shehu Laminu,53200
+2026-10-10,A06,Zainab Kyari,Shehu Laminu,50400
+2026-10-11,A06,Zainab Kyari,Shehu Laminu,66200
+2026-10-12,A06,Zainab Kyari,Shehu Laminu,46500
+2026-10-13,A06,Zainab Kyari,Shehu Laminu,53700
+2026-10-14,A06,Zainab Kyari,Shehu Laminu,50100
+2026-10-15,A06,Zainab Kyari,Shehu Laminu,57300
+2026-10-16,A06,Zainab Kyari,Shehu Laminu,58100
+2026-10-17,A06,Zainab Kyari,Shehu Laminu,55800
+2026-10-19,A06,Zainab Kyari,Shehu Laminu,57700
+2026-10-20,A06,Zainab Kyari,Shehu Laminu,49400
+2026-10-21,A06,Zainab Kyari,Shehu Laminu,55700
+2026-10-22,A06,Zainab Kyari,Shehu Laminu,63100
+2026-10-23,A06,Zainab Kyari,Shehu Laminu,62300
+2026-10-24,A06,Zainab Kyari,Shehu Laminu,57600
+2026-10-26,A06,Zainab Kyari,Shehu Laminu,55800
+2026-10-27,A06,Zainab Kyari,Shehu Laminu,53600
+2026-10-28,A06,Zainab Kyari,Shehu Laminu,54900
+2026-10-29,A06,Zainab Kyari,Shehu Laminu,53500
+2026-10-30,A06,Zainab Kyari,Shehu Laminu,47500
+2026-10-31,A06,Zainab Kyari,Shehu Laminu,57100
+2026-11-02,A06,Zainab Kyari,Shehu Laminu,58500
+2026-11-03,A06,Zainab Kyari,Shehu Laminu,51900
+2026-11-04,A06,Zainab Kyari,Shehu Laminu,58700
+2026-11-05,A06,Zainab Kyari,Shehu Laminu,65500
+2026-11-06,A06,Zainab Kyari,Shehu Laminu,56700
+2026-09-08,A07,Ibrahim Lawan,Zannari,72500
+2026-09-09,A07,Ibrahim Lawan,Zannari,66100
+2026-09-10,A07,Ibrahim Lawan,Zannari,66200
+2026-09-11,A07,Ibrahim Lawan,Zannari,66400
+2026-09-12,A07,Ibrahim Lawan,Zannari,77300
+2026-09-14,A07,Ibrahim Lawan,Zannari,70700
+2026-09-15,A07,Ibrahim Lawan,Zannari,74300
+2026-09-16,A07,Ibrahim Lawan,Zannari,64400
+2026-09-17,A07,Ibrahim Lawan,Zannari,56200
+2026-09-18,A07,Ibrahim Lawan,Zannari,63900
+2026-09-19,A07,Ibrahim Lawan,Zannari,75100
+2026-09-21,A07,Ibrahim Lawan,Zannari,68700
+2026-09-22,A07,Ibrahim Lawan,Zannari,63600
+2026-09-23,A07,Ibrahim Lawan,Zannari,72100
+2026-09-24,A07,Ibrahim Lawan,Zannari,72600
+2026-09-26,A07,Ibrahim Lawan,Zannari,63300
+2026-09-28,A07,Ibrahim Lawan,Zannari,62300
+2026-09-29,A07,Ibrahim Lawan,Zannari,72800
+2026-09-30,A07,Ibrahim Lawan,Zannari,63400
+2026-10-01,A07,Ibrahim Lawan,Zannari,75200
+2026-10-02,A07,Ibrahim Lawan,Zannari,60700
+2026-10-03,A07,Ibrahim Lawan,Zannari,77100
+2026-10-05,A07,Ibrahim Lawan,Zannari,62700
+2026-10-06,A07,Ibrahim Lawan,Zannari,71500
+2026-10-07,A07,Ibrahim Lawan,Zannari,72000
+2026-10-08,A07,Ibrahim Lawan,Zannari,70500
+2026-10-10,A07,Ibrahim Lawan,Zannari,73500
+2026-10-12,A07,Ibrahim Lawan,Zannari,74500
+2026-10-13,A07,Ibrahim Lawan,Zannari,63400
+2026-10-14,A07,Ibrahim Lawan,Zannari,69500
+2026-10-15,A07,Ibrahim Lawan,Zannari,78900
+2026-10-16,A07,Ibrahim Lawan,Zannari,66900
+2026-10-17,A07,Ibrahim Lawan,Zannari,69100
+2026-10-18,A07,Ibrahim Lawan,Zannari,80300
+2026-10-19,A07,Ibrahim Lawan,Zannari,75300
+2026-10-20,A07,Ibrahim Lawan,Zannari,73700
+2026-10-21,A07,Ibrahim Lawan,Zannari,71400
+2026-10-22,A07,Ibrahim Lawan,Zannari,72500
+2026-10-23,A07,Ibrahim Lawan,Zannari,72500
+2026-10-27,A07,Ibrahim Lawan,Zannari,61900
+2026-10-28,A07,Ibrahim Lawan,Zannari,78500
+2026-10-29,A07,Ibrahim Lawan,Zannari,70400
+2026-10-30,A07,Ibrahim Lawan,Zannari,69100
+2026-10-31,A07,Ibrahim Lawan,Zannari,63000
+2026-11-02,A07,Ibrahim Lawan,Zannari,61800
+2026-11-05,A07,Ibrahim Lawan,Zannari,73900
+2026-11-06,A07,Ibrahim Lawan,Zannari,70400
+2026-09-08,A08,Hauwa Mustapha,Mairi,77700
+2026-09-09,A08,Hauwa Mustapha,Mairi,78000
+2026-09-10,A08,Hauwa Mustapha,Mairi,71100
+2026-09-11,A08,Hauwa Mustapha,Mairi,81500
+2026-09-12,A08,Hauwa Mustapha,Mairi,78200
+2026-09-14,A08,Hauwa Mustapha,Mairi,85500
+2026-09-15,A08,Hauwa Mustapha,Mairi,73700
+2026-09-16,A08,Hauwa Mustapha,Mairi,81200
+2026-09-17,A08,Hauwa Mustapha,Mairi,87100
+2026-09-18,A08,Hauwa Mustapha,Mairi,78200
+2026-09-19,A08,Hauwa Mustapha,Mairi,77000
+2026-09-22,A08,Hauwa Mustapha,Mairi,80600
+2026-09-23,A08,Hauwa Mustapha,Mairi,75000
+2026-09-24,A08,Hauwa Mustapha,Mairi,76500
+2026-09-25,A08,Hauwa Mustapha,Mairi,80700
+2026-09-26,A08,Hauwa Mustapha,Mairi,76000
+2026-09-28,A08,Hauwa Mustapha,Mairi,81000
+2026-09-29,A08,Hauwa Mustapha,Mairi,65600
+2026-09-30,A08,Hauwa Mustapha,Mairi,79200
+2026-10-01,A08,Hauwa Mustapha,Mairi,78300
+2026-10-02,A08,Hauwa Mustapha,Mairi,62100
+2026-10-03,A08,Hauwa Mustapha,Mairi,88900
+2026-10-05,A08,Hauwa Mustapha,Mairi,74200
+2026-10-06,A08,Hauwa Mustapha,Mairi,76900
+2026-10-07,A08,Hauwa Mustapha,Mairi,90600
+2026-10-09,A08,Hauwa Mustapha,Mairi,79200
+2026-10-10,A08,Hauwa Mustapha,Mairi,78400
+2026-10-12,A08,Hauwa Mustapha,Mairi,99100
+2026-10-13,A08,Hauwa Mustapha,Mairi,74500
+2026-10-14,A08,Hauwa Mustapha,Mairi,76700
+2026-10-15,A08,Hauwa Mustapha,Mairi,84700
+2026-10-16,A08,Hauwa Mustapha,Mairi,80800
+2026-10-17,A08,Hauwa Mustapha,Mairi,81100
+2026-10-19,A08,Hauwa Mustapha,Mairi,83200
+2026-10-20,A08,Hauwa Mustapha,Mairi,69900
+2026-10-21,A08,Hauwa Mustapha,Mairi,79500
+2026-10-22,A08,Hauwa Mustapha,Mairi,84300
+2026-10-23,A08,Hauwa Mustapha,Mairi,76400
+2026-10-24,A08,Hauwa Mustapha,Mairi,78700
+2026-10-26,A08,Hauwa Mustapha,Mairi,83600
+2026-10-27,A08,Hauwa Mustapha,Mairi,67000
+2026-10-28,A08,Hauwa Mustapha,Mairi,78900
+2026-10-29,A08,Hauwa Mustapha,Mairi,78300
+2026-10-30,A08,Hauwa Mustapha,Mairi,80400
+2026-10-31,A08,Hauwa Mustapha,Mairi,72000
+2026-11-01,A08,Hauwa Mustapha,Mairi,80800
+2026-11-02,A08,Hauwa Mustapha,Mairi,76300
+2026-11-03,A08,Hauwa Mustapha,Mairi,68200
+2026-11-04,A08,Hauwa Mustapha,Mairi,75500
+2026-11-05,A08,Hauwa Mustapha,Mairi,79200
+2026-11-06,A08,Hauwa Mustapha,Mairi,85600
+2026-09-08,A09,Emeka Obi,London Ciki,60200
+2026-09-09,A09,Emeka Obi,London Ciki,59800
+2026-09-10,A09,Emeka Obi,London Ciki,57300
+2026-09-11,A09,Emeka Obi,London Ciki,55100
+2026-09-12,A09,Emeka Obi,London Ciki,57000
+2026-09-14,A09,Emeka Obi,London Ciki,53000
+2026-09-15,A09,Emeka Obi,London Ciki,59800
+2026-09-16,A09,Emeka Obi,London Ciki,55100
+2026-09-17,A09,Emeka Obi,London Ciki,63400
+2026-09-18,A09,Emeka Obi,London Ciki,53500
+2026-09-19,A09,Emeka Obi,London Ciki,64300
+2026-09-21,A09,Emeka Obi,London Ciki,54000
+2026-09-22,A09,Emeka Obi,London Ciki,55300
+2026-09-23,A09,Emeka Obi,London Ciki,66700
+2026-09-24,A09,Emeka Obi,London Ciki,59900
+2026-09-25,A09,Emeka Obi,London Ciki,58400
+2026-09-26,A09,Emeka Obi,London Ciki,60100
+2026-09-28,A09,Emeka Obi,London Ciki,59400
+2026-09-29,A09,Emeka Obi,London Ciki,52700
+2026-09-30,A09,Emeka Obi,London Ciki,62400
+2026-10-01,A09,Emeka Obi,London Ciki,59000
+2026-10-02,A09,Emeka Obi,London Ciki,60300
+2026-10-03,A09,Emeka Obi,London Ciki,59300
+2026-10-05,A09,Emeka Obi,London Ciki,44400
+2026-10-06,A09,Emeka Obi,London Ciki,41100
+2026-10-07,A09,Emeka Obi,London Ciki,60100
+2026-10-08,A09,Emeka Obi,London Ciki,52600
+2026-10-09,A09,Emeka Obi,London Ciki,64400
+2026-10-10,A09,Emeka Obi,London Ciki,68400
+2026-10-11,A09,Emeka Obi,London Ciki,65500
+2026-10-12,A09,Emeka Obi,London Ciki,53300
+2026-10-13,A09,Emeka Obi,London Ciki,57800
+2026-10-14,A09,Emeka Obi,London Ciki,56800
+2026-10-15,A09,Emeka Obi,London Ciki,62300
+2026-10-16,A09,Emeka Obi,London Ciki,56700
+2026-10-17,A09,Emeka Obi,London Ciki,59000
+2026-10-18,A09,Emeka Obi,London Ciki,53200
+2026-10-19,A09,Emeka Obi,London Ciki,56100
+2026-10-20,A09,Emeka Obi,London Ciki,60100
+2026-10-21,A09,Emeka Obi,London Ciki,50900
+2026-10-22,A09,Emeka Obi,London Ciki,61400
+2026-10-23,A09,Emeka Obi,London Ciki,60900
+2026-10-24,A09,Emeka Obi,London Ciki,59500
+2026-10-25,A09,Emeka Obi,London Ciki,56600
+2026-10-26,A09,Emeka Obi,London Ciki,62000
+2026-10-27,A09,Emeka Obi,London Ciki,66300
+2026-10-28,A09,Emeka Obi,London Ciki,57500
+2026-10-29,A09,Emeka Obi,London Ciki,61600
+2026-10-30,A09,Emeka Obi,London Ciki,58600
+2026-10-31,A09,Emeka Obi,London Ciki,57700
+2026-11-02,A09,Emeka Obi,London Ciki,33500
+2026-11-03,A09,Emeka Obi,London Ciki,32800
+2026-11-04,A09,Emeka Obi,London Ciki,31000
+2026-11-05,A09,Emeka Obi,London Ciki,32900
+2026-11-06,A09,Emeka Obi,London Ciki,35600
+2026-09-08,A10,Halima Umar,Pompomari,59900
+2026-09-09,A10,Halima Umar,Pompomari,63400
+2026-09-10,A10,Halima Umar,Pompomari,67500
+2026-09-11,A10,Halima Umar,Pompomari,72400
+2026-09-12,A10,Halima Umar,Pompomari,70700
+2026-09-14,A10,Halima Umar,Pompomari,57400
+2026-09-15,A10,Halima Umar,Pompomari,57000
+2026-09-16,A10,Halima Umar,Pompomari,69000
+2026-09-17,A10,Halima Umar,Pompomari,75600
+2026-09-18,A10,Halima Umar,Pompomari,66200
+2026-09-21,A10,Halima Umar,Pompomari,74400
+2026-09-22,A10,Halima Umar,Pompomari,73400
+2026-09-23,A10,Halima Umar,Pompomari,63700
+2026-09-24,A10,Halima Umar,Pompomari,72900
+2026-09-25,A10,Halima Umar,Pompomari,64800
+2026-09-26,A10,Halima Umar,Pompomari,66000
+2026-09-27,A10,Halima Umar,Pompomari,71400
+2026-09-28,A10,Halima Umar,Pompomari,67900
+2026-09-29,A10,Halima Umar,Pompomari,82500
+2026-09-30,A10,Halima Umar,Pompomari,77100
+2026-10-01,A10,Halima Umar,Pompomari,71300
+2026-10-02,A10,Halima Umar,Pompomari,71500
+2026-10-03,A10,Halima Umar,Pompomari,77000
+2026-10-04,A10,Halima Umar,Pompomari,65400
+2026-10-06,A10,Halima Umar,Pompomari,71500
+2026-10-07,A10,Halima Umar,Pompomari,68600
+2026-10-08,A10,Halima Umar,Pompomari,62800
+2026-10-09,A10,Halima Umar,Pompomari,60200
+2026-10-10,A10,Halima Umar,Pompomari,70300
+2026-10-12,A10,Halima Umar,Pompomari,65800
+2026-10-13,A10,Halima Umar,Pompomari,70300
+2026-10-14,A10,Halima Umar,Pompomari,71400
+2026-10-15,A10,Halima Umar,Pompomari,69600
+2026-10-16,A10,Halima Umar,Pompomari,61300
+2026-10-17,A10,Halima Umar,Pompomari,72600
+2026-10-19,A10,Halima Umar,Pompomari,69000
+2026-10-20,A10,Halima Umar,Pompomari,70000
+2026-10-21,A10,Halima Umar,Pompomari,75800
+2026-10-22,A10,Halima Umar,Pompomari,71700
+2026-10-23,A10,Halima Umar,Pompomari,75900
+2026-10-24,A10,Halima Umar,Pompomari,72400
+2026-10-26,A10,Halima Umar,Pompomari,62900
+2026-10-27,A10,Halima Umar,Pompomari,61500
+2026-10-28,A10,Halima Umar,Pompomari,76200
+2026-10-29,A10,Halima Umar,Pompomari,77200
+2026-10-30,A10,Halima Umar,Pompomari,62600
+2026-10-31,A10,Halima Umar,Pompomari,69600
+2026-11-01,A10,Halima Umar,Pompomari,67000
+2026-11-02,A10,Halima Umar,Pompomari,63500
+2026-11-03,A10,Halima Umar,Pompomari,69000
+2026-11-04,A10,Halima Umar,Pompomari,67700
+2026-11-06,A10,Halima Umar,Pompomari,78800
+2026-09-08,A11,Samuel Bitrus,University Road,47400
+2026-09-09,A11,Samuel Bitrus,University Road,55800
+2026-09-10,A11,Samuel Bitrus,University Road,63300
+2026-09-11,A11,Samuel Bitrus,University Road,62900
+2026-09-12,A11,Samuel Bitrus,University Road,57200
+2026-09-14,A11,Samuel Bitrus,University Road,64800
+2026-09-15,A11,Samuel Bitrus,University Road,47900
+2026-09-16,A11,Samuel Bitrus,University Road,57100
+2026-09-17,A11,Samuel Bitrus,University Road,59200
+2026-09-18,A11,Samuel Bitrus,University Road,61600
+2026-09-19,A11,Samuel Bitrus,University Road,57800
+2026-09-20,A11,Samuel Bitrus,University Road,54400
+2026-09-21,A11,Samuel Bitrus,University Road,57500
+2026-09-22,A11,Samuel Bitrus,University Road,63700
+2026-09-23,A11,Samuel Bitrus,University Road,50500
+2026-09-24,A11,Samuel Bitrus,University Road,55300
+2026-09-25,A11,Samuel Bitrus,University Road,50100
+2026-09-26,A11,Samuel Bitrus,University Road,53100
+2026-09-27,A11,Samuel Bitrus,University Road,55100
+2026-09-28,A11,Samuel Bitrus,University Road,51800
+2026-09-29,A11,Samuel Bitrus,University Road,56500
+2026-09-30,A11,Samuel Bitrus,University Road,56600
+2026-10-01,A11,Samuel Bitrus,University Road,53500
+2026-10-02,A11,Samuel Bitrus,University Road,58700
+2026-10-03,A11,Samuel Bitrus,University Road,51000
+2026-10-05,A11,Samuel Bitrus,University Road,59900
+2026-10-07,A11,Samuel Bitrus,University Road,55600
+2026-10-08,A11,Samuel Bitrus,University Road,59800
+2026-10-09,A11,Samuel Bitrus,University Road,64000
+2026-10-10,A11,Samuel Bitrus,University Road,55800
+2026-10-12,A11,Samuel Bitrus,University Road,65900
+2026-10-13,A11,Samuel Bitrus,University Road,52800
+2026-10-14,A11,Samuel Bitrus,University Road,52200
+2026-10-15,A11,Samuel Bitrus,University Road,54800
+2026-10-16,A11,Samuel Bitrus,University Road,56500
+2026-10-17,A11,Samuel Bitrus,University Road,53900
+2026-10-19,A11,Samuel Bitrus,University Road,67400
+2026-10-20,A11,Samuel Bitrus,University Road,61000
+2026-10-21,A11,Samuel Bitrus,University Road,56200
+2026-10-22,A11,Samuel Bitrus,University Road,44900
+2026-10-23,A11,Samuel Bitrus,University Road,48700
+2026-10-24,A11,Samuel Bitrus,University Road,51500
+2026-10-25,A11,Samuel Bitrus,University Road,62900
+2026-10-26,A11,Samuel Bitrus,University Road,60600
+2026-10-27,A11,Samuel Bitrus,University Road,59400
+2026-10-28,A11,Samuel Bitrus,University Road,54400
+2026-10-29,A11,Samuel Bitrus,University Road,59600
+2026-10-30,A11,Samuel Bitrus,University Road,51900
+2026-10-31,A11,Samuel Bitrus,University Road,57400
+2026-11-02,A11,Samuel Bitrus,University Road,57100
+2026-11-04,A11,Samuel Bitrus,University Road,62800
+2026-11-05,A11,Samuel Bitrus,University Road,64700
+2026-11-06,A11,Samuel Bitrus,University Road,61800
+2026-09-08,A12,Bala Kolo,Dalori,46400
+2026-09-09,A12,Bala Kolo,Dalori,47300
+2026-09-10,A12,Bala Kolo,Dalori,51700
+2026-09-11,A12,Bala Kolo,Dalori,44900
+2026-09-12,A12,Bala Kolo,Dalori,45200
+2026-09-14,A12,Bala Kolo,Dalori,47900
+2026-09-15,A12,Bala Kolo,Dalori,46100
+2026-09-16,A12,Bala Kolo,Dalori,48400
+2026-09-17,A12,Bala Kolo,Dalori,46300
+2026-09-18,A12,Bala Kolo,Dalori,47600
+2026-09-19,A12,Bala Kolo,Dalori,50500
+2026-09-21,A12,Bala Kolo,Dalori,53900
+2026-09-22,A12,Bala Kolo,Dalori,46600
+2026-09-23,A12,Bala Kolo,Dalori,45600
+2026-09-26,A12,Bala Kolo,Dalori,49400
+2026-09-28,A12,Bala Kolo,Dalori,39700
+2026-09-29,A12,Bala Kolo,Dalori,51100
+2026-10-01,A12,Bala Kolo,Dalori,42900
+2026-10-02,A12,Bala Kolo,Dalori,55700
+2026-10-03,A12,Bala Kolo,Dalori,48700
+2026-10-05,A12,Bala Kolo,Dalori,39800
+2026-10-06,A12,Bala Kolo,Dalori,51200
+2026-10-07,A12,Bala Kolo,Dalori,45500
+2026-10-08,A12,Bala Kolo,Dalori,44300
+2026-10-09,A12,Bala Kolo,Dalori,40000
+2026-10-10,A12,Bala Kolo,Dalori,50900
+2026-10-12,A12,Bala Kolo,Dalori,44200
+2026-10-13,A12,Bala Kolo,Dalori,37300
+2026-10-14,A12,Bala Kolo,Dalori,43500
+2026-10-15,A12,Bala Kolo,Dalori,45400
+2026-10-16,A12,Bala Kolo,Dalori,50200
+2026-10-17,A12,Bala Kolo,Dalori,47200
+2026-10-19,A12,Bala Kolo,Dalori,52600
+2026-10-20,A12,Bala Kolo,Dalori,45800
+2026-10-21,A12,Bala Kolo,Dalori,42000
+2026-10-22,A12,Bala Kolo,Dalori,51700
+2026-10-23,A12,Bala Kolo,Dalori,41900
+2026-10-24,A12,Bala Kolo,Dalori,50800
+2026-10-26,A12,Bala Kolo,Dalori,51400
+2026-10-27,A12,Bala Kolo,Dalori,49600
+2026-10-28,A12,Bala Kolo,Dalori,49800
+2026-10-29,A12,Bala Kolo,Dalori,58400
+2026-10-30,A12,Bala Kolo,Dalori,44900
+2026-10-31,A12,Bala Kolo,Dalori,49700
+2026-11-02,A12,Bala Kolo,Dalori,56900
+2026-11-03,A12,Bala Kolo,Dalori,45200
+2026-11-04,A12,Bala Kolo,Dalori,47600
+2026-11-05,A12,Bala Kolo,Dalori,50200
+2026-11-06,A12,Bala Kolo,Dalori,49400
