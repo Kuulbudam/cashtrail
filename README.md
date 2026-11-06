@@ -40,7 +40,7 @@ It also looks beyond individual transactions to identify repeated shortfalls and
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cashtrail.git
+git clone https://github.com/Kuulbudam/cashtrail.git
 cd cashtrail
 ```
 
